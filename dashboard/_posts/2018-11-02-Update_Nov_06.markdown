@@ -8,8 +8,8 @@ categories:
 - project1
 - nov18
 - update
-img: status_generic.jpg
-thumb: status_generic.jpg
+img: summary.jpg
+thumb: summary.jpg
 ---
 <table class="table table-striped">
   <thead class="thead-dark">
