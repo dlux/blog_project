@@ -22,8 +22,13 @@ addons:
     packages:
       - libcurl4-openssl-dev
 
+# route build to container-based infrastructure for a faster build
 sudo: false
-cache: bundler
+
+# caching bundler gem packages will speed up build
+# cache: bundler
+
+# Optional: disable email notification for build outcome
 notifications:
   email: false
 
