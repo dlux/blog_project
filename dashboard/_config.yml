@@ -1,0 +1,16 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: luzC Dashboard
+description: "Simple dashboard"
+baseurl: "/dashboard" #important: start with /
+url: "http://localhost:4000"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+exclude: [vendor]
+include: ['_history']

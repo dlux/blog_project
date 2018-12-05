@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Update Nov 06"
+date: 2018-11-06 14:54:46
+author: luzC
+categories:
+- status
+- project1
+- nov18
+- update
+img: status_generic.jpg
+thumb: status_generic.jpg
+---
+<table class="table table-striped">
+  <thead class="thead-dark">
+  <tr>
+    <th>Item</th>
+    <th>Summary</th>
+    <th>Accomplishment</th>
+    <th>Blockers</th>
+  </tr>
+  </thead>
+  <tr>
+    <td>Item1</td>
+    <td>summary1</td>
+    <td>Completed X </td>
+    <td>None</td>
+  </tr>
+  <tr>
+    <td>Item X</td>
+    <td>Performing a,b,c</td>
+    <td>None</td>
+    <td>Waiting for YYYY</td>
+  </tr>
+</table>
+
+[hampden]: https://github.com/jekyll/jekyll
