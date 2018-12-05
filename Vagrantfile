@@ -10,7 +10,7 @@ Vagrant.require_version ">= 1.8.4"
 Vagrant.configure(2) do |config|
   config.vm.box = 'ubuntu/xenial64'
   config.vm.box_check_update = false
-  config.vm.hostname = 'general'
+  config.vm.hostname = 'blog_project'
   config.vm.network :private_network, ip: '172.16.88.11'
   config.vm.network :forwarded_port, guest: 80, host: 8880
   config.vm.network :forwarded_port, guest: 4000, host: 4000
