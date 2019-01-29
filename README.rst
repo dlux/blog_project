@@ -2,8 +2,8 @@
 Project Status - Blog Format
 ============================
 
-.. image:: https://travis-ci.org/dlux/blog_project.svg?branch=master
-    :target: https://travis-ci.org/dlux/blog_project
+.. image:: https://travis-ci.com/dlux/blog_project.svg?branch=master
+    :target: https://travis-ci.com/dlux/blog_project
 
 Current repo is a web site that can be used as a blog template or to track
 one or more projects status in a blog format.
